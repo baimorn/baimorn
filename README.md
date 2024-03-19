@@ -2,7 +2,7 @@
 ###### My name is Baimorn. I interested in User Experience / User Interface Design. I want to learn and practice my skill to improve my design for what user need and what user interact with , Also i hope to gain various experience from this internship.
 
 #### Tools 💻
-![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
+![uptime](https://img.shields.io/badge/online-text?style=flat&logo=adobexd&logoColor=violet&label=Adobe%20XD)
 https://img.shields.io/badge/online-text?style=flat&logo=adobexd&logoColor=violet&label=Adobe%20XD
 
 ##### (https://img.shields.io/badge/online-text?style=flat&logo=adobexd&logoColor=violet&label=Adobe%20XD)
