@@ -1,7 +1,7 @@
 #### About Me
 ###### My name is Baimorn. I interested in User Experience / User Interface Design. I want to learn and practice my skill to improve my design for what user need and what user interact with , Also i hope to gain various experience from this intership.
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baimorn&layout=compact)
 <!--
 **baimorn/baimorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
