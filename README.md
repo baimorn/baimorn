@@ -1,4 +1,5 @@
-### Hi there 👋
+#### About Me
+###### My name is Baimorn. I interested in User Experience / User Interface Design. I want to learn and practice my skill to improve my design for what user need and what user interact with , Also i hope to gain various experience from this intership.
 
 <!--
 **baimorn/baimorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
