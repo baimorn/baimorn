@@ -1,18 +1,10 @@
-#### About Me
+#### About Me 👩🏻‍💻
 ###### My name is Baimorn. I interested in User Experience / User Interface Design. I want to learn and practice my skill to improve my design for what user need and what user interact with , Also i hope to gain various experience from this intership.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baimorn&layout=compact)
-<!--
-**baimorn/baimorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Github Stats 📈
+<a href="https://github.com/baimorn/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=baimorn" />
+</a>
+<a href="https://github.com/baimorn/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baimorn&layout=compact&langs_count=8&card_width=320" />
+</a>
