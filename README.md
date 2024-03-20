@@ -4,11 +4,6 @@
 #### Tools 💻
 ![uptime](https://img.shields.io/badge/online-text?style=flat&logo=adobexd&logoColor=violet&label=Adobe%20XD) ![uptime](https://img.shields.io/badge/online-text?style=flat&logo=figma&logoColor=red&label=Figma) ![uptime](https://img.shields.io/badge/online-text?style=flat&logo=visualstudiocode&logoColor=blue&label=Visual%20Studio%20Code) 
 
-
-
-##### (https://img.shields.io/badge/online-text?style=flat&logo=adobexd&logoColor=violet&label=Adobe%20XD)
-
-
 #### Github Stats 📈
 <a href="https://github.com/baimorn/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=baimorn" />
